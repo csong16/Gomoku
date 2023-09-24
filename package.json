@@ -1,0 +1,23 @@
+{
+  "name": "gomoku",
+  "version": "1.0.0",
+  "description": "A simple gomoku web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csong16/Gomoku.git"
+  },
+  "keywords": [
+    "gomoku",
+    "five-in-a-row"
+  ],
+  "author": "Chen Song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csong16/Gomoku/issues"
+  },
+  "homepage": "https://github.com/csong16/Gomoku#readme"
+}
